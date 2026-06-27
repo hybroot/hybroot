@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sultan 👋
 
-<!--
-**hybroot/hybroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of Hybroot**
 
-Here are some ideas to get you started:
+Building modern Android applications, digital products, and knowledge-driven software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+* Android Development
+* Kotlin
+* Jetpack Compose
+* Material Design 3
+* Clean Architecture
+* Open Source
+
+## Current Project
+
+🚀 **Hybroot**
+
+Creating high-quality Android applications and a long-term ecosystem of software and educational products.
+
+## Tech Stack
+
+* Kotlin
+* Jetpack Compose
+* Android SDK
+* Coroutines
+* Room
+* Retrofit
+* Hilt
+* Firebase
+* Git
+* Figma
+
+## Goals
+
+* Build production-ready Android applications
+* Publish products on Google Play
+* Contribute to Open Source
+* Grow the Hybroot ecosystem
+
+---
+
+*"Build useful products. Learn continuously. Think long-term."*
