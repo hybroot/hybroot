@@ -6,7 +6,7 @@
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:00b4d8&height=180&section=header&text=HYBROOT&fontSize=62&fontColor=00b4d8&fontAlignY=38&animation=fadeIn&desc=Android%20Engineer%20·%20Systems%20Thinker%20·%20NULTIME%20Company&descSize=16&descAlignY=62&descColor=8892a4" alt="HYBROOT Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:00b4d8&height=180&section=header&text=HYBROOT&fontSize=62&fontColor=00b4d8&fontAlignY=38&animation=fadeIn&desc=Android%20Engineer%20·%20Systems%20Thinker%20·%20HYBROOT%20Company&descSize=16&descAlignY=62&descColor=8892a4" alt="HYBROOT Banner"/>
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 ## HYBROOT
 
-**Android Engineer · Mobile Product Builder · NULTIME Company**
+**Android Engineer · Mobile Product Builder · HYBROOT Company**
 
 Building production-grade Android applications with a focus on clean architecture, long-term maintainability, and real product outcomes. Approaching software as an engineering discipline — not a craft of clever one-liners.
 
@@ -52,7 +52,7 @@ Every commit is a decision. Every abstraction has a cost. Every system has a fai
 object HYBROOT {
 
     val focus      = "Android · Kotlin · Jetpack Compose"
-    val company    = "NULTIME Company"
+    val company    = "HYBROOT Company"
     val approach   = "Clean Architecture · First Principles · Systems Thinking"
     val horizon    = "10–20 year compounding mindset"
     val values     = listOf("Craft", "Precision", "Long-term value", "Architecture")
@@ -95,7 +95,7 @@ Core operating principles:
 <td width="50%" valign="top">
 
 **Product**
-- Shipping NULTIME Company's Android product suite
+- Shipping HYBROOT Company's Android product suite
 - Building a GitHub portfolio of complete, documented projects
 - Establishing a YouTube channel as a parallel distribution channel
 - Long-term: Play Store presence and sustainable app revenue
@@ -224,7 +224,7 @@ Core operating principles:
 ### `[PROJECT-ALPHA]`
 *Android · Kotlin · Compose*
 
-> Description placeholder — first pet project under NULTIME Company brand.
+> Description placeholder — first pet project under HYBROOT Company brand.
 
 `kotlin` `compose` `room` `mvvm`
 
@@ -253,7 +253,7 @@ Core operating principles:
 </td>
 <td width="50%" valign="top">
 
-### NULTIME Company
+### HYBROOT Company
 *Brand · Product Suite*
 
 > The parent company umbrella for all Android products and distribution channels.
@@ -292,7 +292,7 @@ Core operating principles:
    ├─ [ ] Performance profiling & optimization
    ├─ [ ] CI/CD pipeline for Android (GitHub Actions)
    │
-   └─ [ ] NULTIME Company — public product suite
+   └─ [ ] HYBROOT Company — public product suite
 ```
 
 <br/>
@@ -513,7 +513,7 @@ Q[X] 2025
 └── Register Play Developer Account
 
 2026
-├── First Play Store release under NULTIME Company
+├── First Play Store release under HYBROOT Company
 ├── YouTube channel active with technical content
 ├── Upwork/freelance profile established
 └── Sustainable revenue from at least one channel
@@ -563,7 +563,7 @@ Architecture is not overhead — it is the only thing that separates a product f
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@YourChannel">
-    <img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=00b4d8&label=NULTIME" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=00b4d8&label=HYBROOT" alt="YouTube"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/YourProfile">
@@ -586,7 +586,7 @@ Architecture is not overhead — it is the only thing that separates a product f
 <br/>
 
 <sub>
-  <code>HYBROOT · NULTIME Company · Built with architecture in mind</code>
+  <code>HYBROOT · HYBROOT Company · Built with architecture in mind</code>
 </sub>
 
 <br/><br/>
