@@ -74,6 +74,7 @@ Mode      Learning → Building
 <table>
 <tr>
 <td align="center" width="25%">
+<br></br>
 <img src="https://img.shields.io/badge/─────────────-0d1117?style=for-the-badge" alt=""/><br/>
 <img src="https://img.shields.io/badge/QUALITY-00b4d8?style=flat-square&labelColor=0d1117"/><br/>
 <sub>Readability is a standard, not a preference</sub>
