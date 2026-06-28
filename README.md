@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:00b4d8&height=160&section=header&text=HYBROOT&fontSize=64&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Android+Engineer+·+HYBROOT+Company&descSize=14&descAlignY=64&descColor=8892a4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:00b4d8&height=160&section=header&text=HYBROOT&fontSize=64&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Android+Engineer+·+HYBROOT&descSize=14&descAlignY=64&descColor=8892a4"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=500&lines=Architecture+before+code.;Quality+before+speed.;Building+HYBROOT+Company.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=500&lines=Architecture+before+code.;Quality+before+speed.;Building+HYBROOT.)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="#about">About</a>&ensp;·&ensp;<a href="#stack">Stack</a>&ensp;·&ensp;<a href="#building">Building</a>&ensp;·&ensp;<a href="#roadmap">Roadmap</a>&ensp;·&ensp;<a href="#stats">Stats</a>&ensp;·&ensp;<a href="#contact">Contact</a>
+<a href="#about">About</a>&ensp;·&ensp;<a href="#stack">Stack</a>&ensp;·&ensp;<a href="#building">Building</a>&ensp;·&ensp;<a href="#roadmap">Roadmap</a>&ensp;·&ensp;<a href="#contact">Contact</a>
 
 </div>
 
@@ -20,7 +20,7 @@
 
 Learning Android development with a structured, architecture-first approach. Every project I publish is documented, layered, and maintainable by design.
 
-Building toward **HYBROOT Company** — an Android product suite distributed through Google Play and YouTube.
+Building toward **HYBROOT** — an Android product suite distributed through Google Play and YouTube.
 
 ```
 Status    Junior Android Developer (in progress)
@@ -107,7 +107,7 @@ Dependency direction: inward only.
 
 ## Building
 
-> Three documented projects before Play Store registration.
+> Three documented projects before Play Store registration.  
 > Each ships with: README · Architecture · Screenshots · Roadmap.
 
 <br/>
@@ -134,33 +134,8 @@ Dependency direction: inward only.
 ○  Pet Project #3 — shipped to GitHub
 ○  Play Developer account registered
 ○  First Play Store release
-○  HYBROOT Company — public product suite
+○  HYBROOT — public product suite
 ```
-
----
-
-<a id="stats"></a>
-
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=<!-- YOUR_USERNAME -->&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8892a4&rank_icon=github"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<!-- YOUR_USERNAME -->&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=8892a4&langs_count=5"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=<!-- YOUR_USERNAME -->&bg_color=0d1117&color=8892a4&line=00b4d8&point=00b4d8&area=true&area_color=0a1628&hide_border=true"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<!-- YOUR_USERNAME -->/<!-- YOUR_USERNAME -->/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/<!-- YOUR_USERNAME -->/<!-- YOUR_USERNAME -->/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
 
 ---
 
@@ -168,7 +143,7 @@ Dependency direction: inward only.
 
 ## Contact
 
-<!-- Replace with your real links before publishing -->
+<!-- Раскомментируй и замени ссылки перед публикацией -->
 
 <!--
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00b4d8)](mailto:YOUR@EMAIL.COM)
@@ -178,7 +153,7 @@ Dependency direction: inward only.
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=00b4d8)](https://youtube.com/@YOUR_CHANNEL)
 -->
 
-> Contact section intentionally hidden until links are confirmed.
+> Contact links will appear here once confirmed.
 
 ---
 
@@ -186,6 +161,6 @@ Dependency direction: inward only.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer"/>
 
-<sub><code>HYBROOT · HYBROOT Company · Building in public</code></sub>
+<sub><code>HYBROOT · Building in public</code></sub>
 
 </div>
